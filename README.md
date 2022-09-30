@@ -1,9 +1,10 @@
-Olá, sou a @deborasous.
+Olá, sou @deborasous.
 
-Sou formada em design gráfico e vou ingressar na área de programação.
-Tenho interesse em codificação com Javascript/HTML/CSS e design de usabilidade.
+Front End Júnior. 
+Minhas habilidades são em Javascript, HTML, CSS, SASS (aprendendo) e Node.js. Atualmente por conta própria há cerca de seis meses e estou no meu primeiro projeto (VendaBem) para um cliente real.
 
-Gosto de aprender coisas novas que possam acrescentar novas experiências e que se relacionam com a criação de experiências de usuários.
+Sou formada em design gráfico tenho conhecimentos em UI e UX design. Possuo mais de sete anos de experiência no setor financeiro de empresas (contas a pagar, receber, tesouraria, etc)
+
 
 Meu  linkedign https://www.linkedin.com/in/d-sousa-santos/
 
