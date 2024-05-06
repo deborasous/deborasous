@@ -16,7 +16,7 @@ Estou apaixonado por tecnologia e estou sempre em busca de aprender e aplicar no
 ![NODE](https://img.shields.io/badge/NODE-4d9641?style=for-the-badge&logo=node&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-0E85C1?style=for-the-badge&logo=java&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-E94D5F?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=FFF)]([https://docs.github.com](https://github.com/deborasous)/)
+[![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/deborasous)
 
 ### Status
 
