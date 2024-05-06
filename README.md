@@ -28,4 +28,6 @@ Estou apaixonado por tecnologia e estou sempre em busca de aprender e aplicar no
 [![GitHub Streak](https://streak-stats.demolab.com?user=deborasous&theme=material-palenight&locale=pt_BR)](https://git.io/streak-stats)
 
 
+## Projetos
+[![PharmaSellticos Front-end](https://img.shields.io/badge/Pharmasellticos-18be8f?style=for-the-badge&logo=pharmasellticos&logoColor=FFF)]([https://git.io/streak-stats](https://github.com/FullStack-Itaguacu/M3P-FrontEnd-Squad2))
 
