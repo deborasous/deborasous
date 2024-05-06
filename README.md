@@ -20,7 +20,9 @@ Estou apaixonado por tecnologia e estou sempre em busca de aprender e aplicar no
 
 ### Status
 
-[![Debora Sousa GitHub status](https://github-readme-stats.vercel.app/api?username=deborasous&theme=transparent&bg_color=292d3e&border_color=e4e2e2&show_icons=true&icon_color=c793eb&title_color=c793eb&text_color=7DC6E8)](https://github.com/deborasous/github-readme-stats)
+[![Debora Sousa GitHub status](https://github-readme-stats.vercel.app/api?username=deborasous&theme=transparent&bg_color=292d3e&border_color=e4e2e2&show_icons=true&icon_color=c793eb&title_color=c793eb&text_color=7DC6E8&locale=pt-br)](https://github.com/deborasous/github-readme-stats)
+
+
 
 
 ### Contribuições em projetos
