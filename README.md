@@ -31,4 +31,4 @@ Estou apaixonado por tecnologia e estou sempre em busca de aprender e aplicar no
 ### Projetos
 [![PharmaSellticos Front-end](https://img.shields.io/badge/Pharmasellticos_Front_End-18be8f?style=for-the-badge&logo=pharmasellticos&logoColor=FFF)](https://github.com/FullStack-Itaguacu/M3P-FrontEnd-Squad2)
 [![PharmaSellticos Back-end](https://img.shields.io/badge/Pharmasellticos_Back_End-18be8f?style=for-the-badge&logo=pharmasellticos&logoColor=FFF)](https://github.com/FullStack-Itaguacu/M3P-BackEnd-Squad2)
-
+[![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=FFF)]([https://docs.github.com](https://github.com/deborasous)/)
