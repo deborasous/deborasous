@@ -2,9 +2,8 @@
 
 ### Sobre mim
 Olá! 
-Sou formado em Design Gráfico e estou cursando primeiro período em Ciência da Computação. Com mais de sete anos de experiência no setor financeiro de empresas, desenvolvi habilidades sólidas em áreas como análise de dados, resolução de problemas e comunicação eficaz.
+Sou formado em Design Gráfico e estou cursando primeiro período em Ciência da Computação. Com mais de sete anos de experiência no setor financeiro de empresas, resolução de problemas e comunicação eficaz.
 
-Estou apaixonado por tecnologia e estou sempre em busca de aprender e aplicar novas tecnologias para criar soluções inovadoras e eficientes.
 
 ### Habilidades
 
