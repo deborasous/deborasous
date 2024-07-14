@@ -22,13 +22,6 @@ Sou formado em Design Gráfico e estou cursando primeiro período em Ciência da
 [![Debora Sousa GitHub status](https://github-readme-stats.vercel.app/api?username=deborasous&theme=transparent&bg_color=292d3e&border_color=e4e2e2&show_icons=true&icon_color=c793eb&title_color=c793eb&text_color=7DC6E8&locale=pt-br)](https://github.com/deborasous/github-readme-stats)
 
 
-
-
-### Contribuições em projetos
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=deborasous&theme=material-palenight&locale=pt_BR)](https://git.io/streak-stats)
-
-
 ### Projetos
 [![PharmaSellticos Front-end](https://img.shields.io/badge/Pharmasellticos_Front_End-18be8f?style=for-the-badge&logo=pharmasellticos&logoColor=FFF)](https://github.com/FullStack-Itaguacu/M3P-FrontEnd-Squad2)
 [![PharmaSellticos Back-end](https://img.shields.io/badge/Pharmasellticos_Back_End-18be8f?style=for-the-badge&logo=pharmasellticos&logoColor=FFF)](https://github.com/FullStack-Itaguacu/M3P-BackEnd-Squad2)
