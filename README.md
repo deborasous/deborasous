@@ -17,9 +17,9 @@ Sou formado em Design Gráfico e estou cursando primeiro período em Ciência da
 [![Git](https://img.shields.io/badge/Git-E94D5F?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/deborasous)
 
-### Status
 
-[![Debora Sousa GitHub status](https://github-readme-stats.vercel.app/api?username=deborasous&theme=transparent&bg_color=292d3e&border_color=e4e2e2&show_icons=true&icon_color=c793eb&title_color=c793eb&text_color=7DC6E8&locale=pt-br)](https://github.com/deborasous/github-readme-stats)
+[![Debora Sousa GitHub status](https://github-readme-stats.vercel.app/api?username=deborasous&theme=transparent&bg_color=292d3e&show_icons=true&icon_color=c793eb&title_color=c793eb&text_color=7DC6E8&locale=pt-br)](https://github.com/deborasous/github-readme-stats)
+
 
 
 ### Projetos
